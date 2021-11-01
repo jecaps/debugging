@@ -12,3 +12,9 @@ console.log(a);
 
 let sumAB = a + b;
 console.log(sumAB);
+
+// Use console.clear to clear the browser console
+let output =
+  "Get this to show once in the freeCodeCamp console and not at all in the browser console";
+console.log(output);
+console.clear();
